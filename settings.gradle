@@ -1,0 +1,2 @@
+rootProject.name = "FastLanePocProject"
+include ':app'
