@@ -10,3 +10,5 @@ Copy your generated web hook url and paste it in ENV[“SLACK_URL”]
 
 After the above step.Run the below command it will succesfully generate apk in slack work space.
 bundle exec fastlane slack_build
+
+The ruby script for fast file is added in fastfile in fastlane folder.
